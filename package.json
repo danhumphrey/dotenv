@@ -1,0 +1,27 @@
+{
+  "name": "dotenv",
+  "version": "1.0.0",
+  "description": "dotenv inclusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "env": "node showEnv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhumphrey/dotenv.git"
+  },
+  "keywords": [],
+  "author": "Dan Humphrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhumphrey/dotenv/issues"
+  },
+  "homepage": "https://github.com/danhumphrey/dotenv#readme",
+  "devDependencies": {
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "opn": "^5.3.0",
+    "pretty-data": "^0.40.0"
+  }
+}
