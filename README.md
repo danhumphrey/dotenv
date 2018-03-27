@@ -1,2 +1,2 @@
 # dotenv
-dotenv inclusion
+pretty print environment variables in the default browse
